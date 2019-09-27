@@ -2,6 +2,10 @@
   "name": "react-pop-ui",
   "version": "1.0.3",
   "description": "React UI components that pop!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarodburchill/react-pop-ui.git"
+  },
   "author": "Jarod Burchill",
   "license": "MIT",
   "main": "./build/index.js",
