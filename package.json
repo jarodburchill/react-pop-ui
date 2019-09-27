@@ -4,7 +4,7 @@
   "description": "UI components that pop!",
   "author": "Jarod Burchill",
   "license": "MIT",
-  "main": "./lib/index.js",
+  "main": "./build/index.js",
   "scripts": {
     "build": "webpack"
   },
