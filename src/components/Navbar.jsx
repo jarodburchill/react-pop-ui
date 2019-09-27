@@ -101,7 +101,7 @@ const Line = styled.div`
   }
 `;
 
-const Navbar = ({ children, bg, fg, hover }) => {
+const Navbar = ({ children, bg = "black", fg = "white", hover }) => {
   const [open, setOpen] = useState(false);
   if (
     window.navigator.userAgent.indexOf("Edge") < 0 &&
